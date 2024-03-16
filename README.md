@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Jarspy-Bot Updates](https://github.com/jarsepay/Jarspy-Bot)
 
-- 💬 Asks me about **python things**
+- 💬 Asks me about **bot project & python things**
 
 <h3 align="left">Connect to me with:</h3>
 <p align="left">
