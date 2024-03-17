@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarsepay&label=Profile%20views&color=0e75b6&style=flat" alt="jarsepay" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jarsepay&theme=monokai&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarsepay" alt="jarsepay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -26,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarsepay&show_icons=false&locale=en&layout=compact" alt="jarsepay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarsepay&show_icons=false&locale=en" alt="jarsepay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarsepay&" alt="jarsepay" /></p>
